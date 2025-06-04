@@ -11,8 +11,6 @@ Chúng tôi sử dụng AI để **phân loại hoa quả theo hình ảnh**, sa
 - 🟢 **Phân loại hoa quả bằng AI** (Machine Learning / Deep Learning)  
 - 🟢 **Quản lý lô hàng** và trạng thái kiểm định  
 - 🟢 **Ghi nhận và truy xuất dữ liệu qua Blockchain**  
-- 🟢 **Quản lý chuỗi cung ứng**: từ nông trại đến người tiêu dùng  
-- 🟢 **Tạo mã QR Code** để truy xuất nguồn gốc sản phẩm  
 
 ---
 
