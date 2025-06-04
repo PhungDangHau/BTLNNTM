@@ -1,4 +1,4 @@
-ĐỀ TÀI: PHÂN LOẠI HOA QUẢ & QUẢN LÝ BẰNG BLOCKCHAIN
+#ĐỀ TÀI: PHÂN LOẠI HOA QUẢ & QUẢN LÝ BẰNG BLOCKCHAIN
 Chúng tôi xây dựng đề tài này nhằm giải quyết vấn đề phân loại và truy xuất nguồn gốc hoa quả thông qua công nghệ AI kết hợp với nền tảng Blockchain. Việc ứng dụng công nghệ giúp nâng cao chất lượng quản lý, đảm bảo độ tin cậy, minh bạch trong chuỗi cung ứng nông nghiệp.
 
 Chúng tôi sử dụng AI để phân loại hoa quả theo hình ảnh, sau đó lưu trữ thông tin lên Blockchain nhằm theo dõi lịch sử và chứng thực nguồn gốc sản phẩm.
@@ -15,7 +15,7 @@ Quản lý chuỗi cung ứng: từ nông trại đến người tiêu dùng
 
 Hệ thống QR Code để truy xuất nguồn gốc
 
-Demo sản phẩm:
+#Demo sản phẩm:
 Chức năng Phân loại hoa quả bằng AI
 
 Hệ thống tự động nhận dạng loại quả như: cam, táo, xoài, chuối... dựa trên ảnh đầu vào. Mỗi loại được gán nhãn và đánh giá chất lượng dựa trên hình ảnh.
